@@ -1,0 +1,22 @@
+{
+  "name": "wa-client",
+  "version": "0.0.1",
+  "description": "wolfram alpha client",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlassHacks2016/calcsolver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlassHacks2016/calcsolver/issues"
+  },
+  "homepage": "https://github.com/GlassHacks2016/calcsolver#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
